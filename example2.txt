@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello-modified by dev4
+=======
+hello
+>>>>>>> origin/master
